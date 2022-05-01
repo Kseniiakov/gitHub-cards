@@ -1,0 +1,12 @@
+.footerWrapper {
+    display: flex;
+}
+
+.starsWrapper, .forksWrapper {
+    display: flex;
+    align-items: center;
+}
+
+.starsWrapper {
+    padding-right: 15px;
+}

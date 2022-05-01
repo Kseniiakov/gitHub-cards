@@ -1,0 +1,25 @@
+.wrapperHeader {
+    display: flex;
+    align-items: center;
+}
+
+.iconWrapper {
+    background-color: blueviolet;
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerProject {
+    color: blueviolet;
+
+    margin: 0;
+    padding-left: 15px;
+
+    font-weight: 500;
+}
